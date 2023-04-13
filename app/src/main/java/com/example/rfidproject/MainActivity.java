@@ -74,3 +74,4 @@ public class MainActivity extends AppCompatActivity {
                 || super.onSupportNavigateUp();
     }
 }
+// as you specify a parent activity in AndroidManifest.xml.
